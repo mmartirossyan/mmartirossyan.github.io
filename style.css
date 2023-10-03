@@ -1,5 +1,7 @@
 body {
-	background-color: #dcf0b1;
+	
+        border: 10px solid #dcf0b1;
+        background-color: white;
 	font-family: Helvetica, sans-serif
 }
 
@@ -18,6 +20,7 @@ h1,h2,h3 {
 }
 
 #container {
+   
 	width: 800 px;
 	margin-left: auto;
 	margin-right: auto;
